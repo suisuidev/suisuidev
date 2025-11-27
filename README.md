@@ -2,7 +2,7 @@
 
 こんなサービス作ってます
 
-JPYC対応 雑用依頼コミュニティ https://primer-h3fs.onrender.com
+JPYC対応 雑用依頼プラットフォーム https://primer-h3fs.onrender.com
 
 無料で使える体験版 https://primer-dev.onrender.com/
 
